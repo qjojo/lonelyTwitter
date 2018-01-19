@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="/afs/ualberta.ca/home/j/q/jquist/Documents/301/lonelyTwitter" />
+            <option value="/afs/ualberta.ca/home/j/q/jquist/Documents/301/lonelyTwitter/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
